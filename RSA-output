@@ -1,0 +1,12 @@
+Enter the first prime number
+11
+Enter the second prime number
+17
+N :187
+Phi of N :160
+Public Key is : 7 ,187
+Private Key is : 23 ,187
+Enter the Message
+88
+Encrypted message is : 11
+Decrypted message is : 88
